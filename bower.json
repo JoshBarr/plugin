@@ -1,0 +1,21 @@
+{
+  "name": "Plugin",
+  "version": "0.0.1",
+  "description": "Makes smiley face appear on homepage",
+  "main": "plugin.js",
+  "keywords": [
+    "frivolity"
+  ],
+  "authors": [
+    "Springload"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/JoshBarr/plugin.git",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
